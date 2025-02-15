@@ -2,7 +2,7 @@
 This is the code of the paper [*ISCN:Document-Level Event Causality Identification Bridged by Causal Clues*]
 
 ## Overview8
-![model](./imgs/NECI(updata)_8.png)
+![model](imgs/NECI(updata)_8.png)imgs/NECI(updata)_08.png
 
 
 ### Get the data
