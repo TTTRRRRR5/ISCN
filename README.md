@@ -15,6 +15,20 @@ bash download_maven.sh
 bash download.sh
 cd ../
 ```
+## Requirements
+python==3.12
+- transformers>=4.48.0
+- matplotlib==3.5.3
+- numpy==1.21.5
+- scikit-learn==1.0.2
+- scipy==1.7.3
+- torch==2.0.1+cu118
+- torch_scatter==2.0.9
+- torch_geometric==2.1.0.post1
+- tqdm==4.64.1
+- torch_sparse
+
+
 
 For the complete version of the datasets, please visit the [EventStoryLine](https://github.com/tommasoc80/EventStoryLine/).
 ### Training
