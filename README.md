@@ -1,7 +1,8 @@
 # ISCN
+This is the code of the paper [*ISCN:Document-Level Event Causality Identification Bridged by Causal Clues*]
 
-
-
+## Overview8
+![model](./imgs/NECI(updata)_8.png)
 
 
 ### Get the data
@@ -14,3 +15,5 @@ bash download_maven.sh
 bash download.sh
 cd ../
 ```
+
+For the complete version of the datasets, please visit the [EventStoryLine](https://github.com/tommasoc80/EventStoryLine/).
